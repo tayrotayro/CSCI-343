@@ -1,0 +1,44 @@
+file = open("data.txt", "r")
+data=file.read()
+data=data.split("\n")
+
+
+This opens the text file and stores its contents 
+in a list named data where each element is a line of text in the file
+
+
+for x in range(0, len(data)):
+data[x]=data[x].split(",")
+#think about your data types
+Science is an approximation of reality
+Data 
+
+if the data in your file was seperated by commas(a csv file), you can 
+break each line into a list of each value using this method
+
+int(string here)
+float(place string here)
+str(place number here)
+
+These three functions convert strings to numbers or numbers to strings
+
+
+for index in range(0, len(myList)):
+#place code here
+myList[index] = some_new_value
+
+
+
+from__future__improt division
+
+file =open("data.csv","r")
+data=file.read()
+data
+
+
+Synesthesia**********
+
+classless definition of science and classless definition of data on quiz
+
+
+for project one find mean of all points for each category then mplot.plot
